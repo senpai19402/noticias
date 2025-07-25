@@ -3,23 +3,15 @@
         "title": "Nueva actualización disponible 1.0.2",
         "date": "19 de julio, 2025",
         "shortContent": "Hemos lanzado una nueva actualización con mejoras de rendimiento y nuevos juegos.",
-        "fullContent": "Buenos días, pornosillos cochinotes. Como no tienen nada mejor que hacer ahora como por ejemplo mimir, vengo aquí yo para mostrarles las primeras imágenes del sexto episodio de Shoujo Ramune, entrega que llegará el 5 de septiembre si es que no lo retrasan. Aquí les dejo las imágenes:",
-        "images": [
-            "https://ejemplo.com/imagen1.jpg",
-            "https://ejemplo.com/imagen2.jpg",
-            "https://ejemplo.com/imagen3.jpg",
-            "https://ejemplo.com/imagen4.jpg",
-            "https://ejemplo.com/imagen5.jpg"
-        ]
-    },
-    {
-        "title": "Próximos lanzamientos",
-        "date": "15 de julio, 2025",
-        "shortContent": "Estos son los juegos que llegarán en las próximas semanas...",
-        "fullContent": "Tenemos varios juegos emocionantes en camino:<br><br>- Juego 1: Descripción<br>- Juego 2: Descripción<br>- Juego 3: Descripción",
-        "images": [
-            "https://ejemplo.com/proximos1.jpg",
-            "https://ejemplo.com/proximos2.jpg"
+        "fullContent": [
+            {"type": "text", "content": "Buenos días, pornosillos cochinotes. Como no tienen nada mejor que hacer ahora como por ejemplo mimir, vengo aquí yo para mostrarles las primeras imágenes del sexto episodio de Shoujo Ramune, entrega que llegará el 5 de septiembre si es que no lo retrasan."},
+            {"type": "image", "url": "https://ejemplo.com/imagen1.jpg"},
+            {"type": "text", "content": "Aquí tenemos más detalles sobre el lanzamiento:"},
+            {"type": "image", "url": "https://ejemplo.com/imagen2.jpg"},
+            {"type": "image", "url": "https://ejemplo.com/imagen3.jpg"},
+            {"type": "text", "content": "Y aquí el resto de la información importante sobre este emocionante lanzamiento."},
+            {"type": "image", "url": "https://ejemplo.com/imagen4.jpg"},
+            {"type": "image", "url": "https://ejemplo.com/imagen5.jpg"}
         ]
     }
 ]
